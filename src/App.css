@@ -1,0 +1,33 @@
+.title__card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #f7f7f7;
+    background-color: #e9b30e;
+}
+
+.container__icons {
+
+    display: flex;
+    background-color: #a9a9cf;
+    align-content: center;
+      text-align: center;
+    border: 1px solid #f7f7f7;
+    border-radius: 5px;
+
+}
+
+.card {
+    padding: 30px;
+    border-radius: 2px black;
+    height: auto;
+    fill: rgba(0, 0, 0, 0.67);
+
+}
+
+img {
+ 
+    width: 50px;
+    justify-content: space-evenly;
+}
